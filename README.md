@@ -66,6 +66,6 @@ Null hypothesis - Annual cost for all types of car’s drivetrain and engine siz
 Alternative Hypothesis -  They don’t cost the same.
 
 
-For this study design, we will use ANOVA test since we are comparing maintenance cost of three type of cars drivetrain and different engine size.
+For this study design, we will use ANOVA test since we are comparing maintenance cost of three type of cars drivetrain and different engine size. Using the data collected, we will show if there is a correlation between engine sizes of different drivetrain of cars to its maintenance cost. After doing a test, visualization of results through scatter plot, y value = maintenance cost, x value = engine types and Drivetrain (AWD, FWD, RWD) as scatter plot and color labels. 
 
 Data will be collected from 500 samples of cars with different drivetrain, engine size and its corresponding maintenance cost for three years will be use for this study design. 
