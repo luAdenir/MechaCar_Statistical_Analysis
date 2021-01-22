@@ -56,6 +56,16 @@ The design specifications for the MechaCar suspension coils dictate that the var
 
 <img width="515" alt="Lot3" src="https://user-images.githubusercontent.com/71112826/105457745-27c5ce00-5c3c-11eb-9eec-2898150757b5.png">
 
-
+Lot 3 with p-value of 0.04 shows that it has statistically significant difference from the population mean of 1,500 PSI but not Lot 1 and Lot 2 with p-value of 1 and 0.61, respectively.
 
 ## Study Design: MechaCar vs Competition
+
+Study design to show if there is significant relationship between cars different drivetrain (AWD, FWD, RWD), Engine Size and maintenance cost. 
+
+Null hypothesis - Annual cost for all types of car’s drivetrain and engine size are the same. 
+Alternative Hypothesis -  They don’t cost the same.
+
+
+For this study design, we will use ANOVA test since we are comparing maintenance cost of three type of cars drivetrain and different engine size.
+
+Data will be collected from 500 samples of cars with different drivetrain, engine size and its corresponding maintenance cost for three years will be use for this study design. 
